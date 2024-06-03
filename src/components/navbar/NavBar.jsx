@@ -75,13 +75,11 @@ function NavBar() {
               <img
                 alt="logo"
                 src={logoSrc}
-                width="40"
-                height="40"
+                width="50"
+                height="50"
                 className="d-inline-block align-center pb-2"
               />
-              <span className="d-inline-block align-center pt-1">
-                Shakoor Lab
-              </span>
+              <span className="d-inline-block align-center">Shakoor Lab</span>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
