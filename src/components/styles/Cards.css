@@ -156,3 +156,12 @@ h1 {
     margin-bottom: 20px;
   }
 }
+@media only screen and (max-width: 500px) {
+  .gallery-cards {
+    padding: 0.5rem;
+  }
+
+  .cards {
+    padding: 2rem;
+  }
+}
