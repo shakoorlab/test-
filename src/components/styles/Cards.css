@@ -1,7 +1,9 @@
-.cards,
-.gallery-cards {
+.cards {
   background: #fff;
   padding: 4rem;
+}
+.gallery-cards {
+  padding: 2rem;
 }
 
 h1 {
