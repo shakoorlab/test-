@@ -75,8 +75,8 @@ function NavBar() {
               <img
                 alt="logo"
                 src={logoSrc}
-                width="50"
-                height="50"
+                width="40"
+                height="40"
                 className="d-inline-block align-center pb-2"
               />
               <span className="d-inline-block align-center pt-1">
