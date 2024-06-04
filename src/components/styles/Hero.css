@@ -139,6 +139,7 @@
   }
   .content .des {
     font-size: 1rem; /* Adjust font size for small mobile devices */
+    width: 100%;
   }
 }
 
@@ -146,8 +147,10 @@
   .content .name {
     font-size: 1.5rem; /* Adjust font size for very small mobile devices */
     margin-bottom: 20px;
+    width: 100%;
   }
   .content .des {
     font-size: 0.8rem; /* Adjust font size for very small mobile devices */
+    width: 100%;
   }
 }
